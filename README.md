@@ -20,18 +20,16 @@ Make sure ```JAVA_HOME``` is set to JDK 15.
 
 Execute the following:
 ```shell script
-$ mvn clean package
+$ ./gradlew clean build
 ```
-
-Application JAR and all dependencies will be placed in ```target/jmods```.
 
 ## Run
 
 ```shell script
-$ mvn javafx:run
+$ ./gradlew run
 ```
 
-To open specific file add ```-Dpassword.file=<file>``` to the command line.
+To open specific file add ```-Pfile=<file>``` to the command line.
 
 ## Binary Packages
 
@@ -41,12 +39,10 @@ environment variable
 * Execute the following commands:
 
 ```shell script
-$ mvn clean package jpackage:jpackage@mac
-  or
-$ mvn clean package jpackage:jpackage@win
+$ ./gradlew clean jpackage -Pversion=&lt;version>
 ```
 
-Installation packages will be found in ```target/dist``` directory.
+Installation packages will be found in ```build/dist``` directory.
 
 ## Support
 

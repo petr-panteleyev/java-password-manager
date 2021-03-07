@@ -24,6 +24,9 @@ https://iconarchive.com/show/flat-gradient-social-icons-by-limav/Bitbucket-icon.
 ![cd](src/main/resources/org/panteleyev/pwdmanager/res/cd.png)
 https://iconarchive.com/show/plump-icons-by-zerode/CD-icon.html
 
+![chess](src/main/resources/org/panteleyev/pwdmanager/res/chess.png)
+https://iconarchive.com/show/chess-icons-by-aha-soft/chess-icon.html
+
 ![chrome](src/main/resources/org/panteleyev/pwdmanager/res/chrome.png)
 https://iconarchive.com/show/chrome-icons-by-google/Google-Chrome-icon.html
 
@@ -110,6 +113,9 @@ https://iconarchive.com/show/android-style-icons-by-wwalczyszyn/Notes-icon.html
 
 ![nvidia](src/main/resources/org/panteleyev/pwdmanager/res/nvidia.png)
 https://iconarchive.com/show/circle-addon1-icons-by-martz90/nvidia-icon.html
+
+![odnoklassniki](src/main/resources/org/panteleyev/pwdmanager/res/odnoklassniki.png)
+https://iconarchive.com/show/basic-round-social-icons-by-sicons/odnoklassniki-icon.html
 
 ![origin](src/main/resources/org/panteleyev/pwdmanager/res/origin.png)
 https://iconarchive.com/show/circle-icons-by-martz90/origin-icon.html
